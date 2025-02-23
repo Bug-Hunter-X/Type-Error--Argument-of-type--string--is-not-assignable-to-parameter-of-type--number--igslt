@@ -1,0 +1,2 @@
+# Type Error in TypeScript
+This repository demonstrates a common type error in TypeScript where a string is passed as an argument to a function that expects a number.  The type system catches this at compile time, preventing runtime errors.  The solution shows how to fix the type error using type guards or by modifying the function signature.
